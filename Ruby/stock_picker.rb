@@ -19,7 +19,7 @@ def stock_picker(prices)
     end
     
     days
-  end
+end
   
   array = [17, 3, 6, 9, 15, 8, 5, 1, 10]
   
